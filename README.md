@@ -11,7 +11,7 @@ This project focuses on predicting customer churn using an **Artificial Neural N
 ## 🛠️ Tech Stack & Tools
 
 - **Languages**: Python
-- **Libraries**: TensorFlow, Keras, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Libraries**: TensorFlow, Keras, Pandas, NumPy, Scikit-learn
 - **Tools**: Jupyter Notebook, VS Code
 - **Techniques**: Data Preprocessing, Feature Engineering, ANN Model Building, Hyperparameter Tuning, Model Evaluation
 
